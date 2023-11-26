@@ -1,0 +1,15 @@
+[datti@demo34 paypal]$ git branch
+* master
+[datti@demo34 paypal]$ git branch development
+[datti@demo34 paypal]$ git branch
+  development
+* master
+[datti@demo34 paypal]$ git switch development
+Switched to branch 'development'
+[datti@demo34 paypal]$ git branch
+* development
+  master
+[datti@demo34 paypal]$ ls
+file.txt  gitlike  list  testing.git
+[datti@demo34 paypal]$ vi
+
