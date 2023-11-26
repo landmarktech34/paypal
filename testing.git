@@ -1,0 +1,49 @@
+  612  git config --global user.name "Edithrich"
+  613  git commit -m "first commit"
+  614  clear
+  615  git status
+  616  git log
+  617  vi list
+  618  git status
+  619  git add list
+  620  git status
+  621  git commit -m "second commit"
+  622  git log
+  623  git remote -v
+  624  git remote add paypal https://github.com/landmarktech34/paypal
+  625  git remote -v
+  626  git status
+  627  git push paypal master
+  628  clear
+  629  git ;og
+  630  git log
+  631  git push paypal
+  632  vi file.txt
+  633  clear
+  634  git status
+  635  git init
+  636  git add file.txt
+  637  git status
+  638  git commit -m "third commit"
+  639  git log
+  640  git push master
+  641  git push paypal master
+  642  git push paypal
+  643  clear
+  644  git status
+  645  ls /home
+  646  ls
+  647  tree
+  648  clear
+  649  git
+  650  ls
+  651  cd paypal
+  652  ls
+  653  git status
+  654  git -v
+  655  git init
+  656  giclear
+  657  clear
+  658  history
+[datti@demo34 paypal]$
+babababab a look goooddd
