@@ -1,0 +1,15 @@
+[datti@demo34 paypal]$ git branch
+  development
+* master
+[datti@demo34 paypal]$ git branch stage
+[datti@demo34 paypal]$ git branch
+  development
+* master
+  stage
+[datti@demo34 paypal]$ git switch stage
+Switched to branch 'stage'
+[datti@demo34 paypal]$ ls
+dev.git  file.txt  gitlike  list  project  testing  testing.git
+[datti@demo34 paypal]$
+mercie
+paul
